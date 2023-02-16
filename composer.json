@@ -20,8 +20,10 @@
     "behat/behat": "^3.1",
     "behat/gherkin" : "^4.6.1",
     "dmore/behat-chrome-extension" : "^1.0.0",
-    "drupal/drupal-extension" : "^4",
-    "jarnaiz/behat-junit-formatter" : "^1.3.2"
+    "drupal/drupal-extension" : "^5",
+    "jarnaiz/behat-junit-formatter" : "^1.3.2",
+    "behat/mink-browserkit-driver": "*",
+    "drupal/drupal-driver": "*"
   },
   "conflict": {
     "acquia/blt": "<=12.5.1"
