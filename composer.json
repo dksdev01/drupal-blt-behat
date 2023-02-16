@@ -1,5 +1,5 @@
 {
-  "name": "acquia/blt-behat",
+  "name": "unicef/drupal-blt-behat",
   "description": "Behat integration for Acquia BLT",
   "license": "GPL-2.0+",
   "authors":[
